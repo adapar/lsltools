@@ -15,7 +15,7 @@ import pyqtgraph as pg
 import numpy as np
 from . import pylsl_python3 as pylsl
 import sys
-from PyQt4 import QtGui
+from PySide import QtGui
 import os
 
 
